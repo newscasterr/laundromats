@@ -1,0 +1,69 @@
+2 GitHub accounts:
+* sdfg - xxx@gmail.com - ghp_lakjsdhglkajshdlakjshd
+* fhdf - yyy@gmail.com - ghp_jfhgljdfkhgsldkfjhg
+
+Remark:
+ghp for GitHub personal access tokens
+gho for OAuth access tokens
+ghu for GitHub user-to-server tokens
+
+
+
+Part A - Github
+---------------
+
+1. Work with the team members of your Group Project
+
+2. Each member creates a GitHub account
+
+3. Choose one GitHub account where you will create the main repository to save your project (here alsdfgjkag)
+
+4. Create a repository for your Group Project, e.g.
+name: our_project
+Description: "The remote repository of our Group Project for CPS"
+Choose 'Public' and click 'Create Repository'.
+
+5. Add collaborators:
+Under your repository >> Settings >> Access >> 
+Collaborators >> Add people (using their alias or email address) and follow the instructions
+
+6. Check your emails and access the invitation
+
+7. Each member adds one file to introduce themselves
+Click on 'creating a new file' (for empty repo) or 'Add file' followed by 'Create new file' (for non-empty repo)
+name: membername
+content: #this is membername
+Click on commit changes
+commit's message: "Create membername intro file"
+
+8. Check that all members can see and read everyone's intro file
+
+9. Upload your README.pdf file (only once =)
+Upload a file: Code >> Add a file >> Upload files
+Choose file, then Commit. Example of commit message: "The main description of our group project"
+
+10. Check that all members can see and read everyone's intro file
+
+11. Before leaving, each team member will create a personal access token. These personal access tokens replace passwords for authentication to GitHub using Git command line.
+
+* In the upper right corner: User icon >> Settings
+* On the left panel: Developer settings (bottom of list) >> Personal access tokens >> Tokens (classics)
+* Generate new token (classic)
+* Note: "personal_access_token_membername"
+* Click the repo checkbox under Select scopes section
+* Click on Generate token button at the bottom of the page
+* Save your token somewhere on your drive !
+
+
+**************************
+
+
+Part B - Git
+------------
+
+1. Work alone
+
+2. Go to Colab, upload the file Git_activity_Section_C.ipynb, and follow the instructions
+
+
+
